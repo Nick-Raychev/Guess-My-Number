@@ -7,10 +7,10 @@ Welcome to Guess My Number, a simple yet engaging game where you try to guess th
 - **Keep Guessing:** Use the feedback to refine your guesses and try to guess the correct number in as few attempts as possible.<br>
 - **Win the Game:** Once you guess the correct number, you win!<br>
 <br>**Features**
-- Interactive Interface: Enjoy a user-friendly interface for seamless gameplay.
-- Feedback System: Receive instant feedback after each guess to guide your next move.
-- Score Tracking: Keep track of your attempts to beat your own high score.
-- Reset Option: Start a new game at any time to challenge yourself again.
+- Interactive Interface: Enjoy a user-friendly interface for seamless gameplay.<br>
+- Feedback System: Receive instant feedback after each guess to guide your next move.<br>
+- Score Tracking: Keep track of your attempts to beat your own high score.<br>
+- Reset Option: Start a new game at any time to challenge yourself again.<br>
 **Technologies Used**<br>
 - HTML
 - CSS
