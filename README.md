@@ -2,10 +2,10 @@
 Welcome to Guess My Number, a simple yet engaging game where you try to guess the correct number within a specified range.
 
 **How to Play**<br>
-**Guess the Number:** Enter your guess into the input field and submit it.<br>
-**Receive Feedback:** The game will inform you if your guess is too high or too low.<br>
-**Keep Guessing:** Use the feedback to refine your guesses and try to guess the correct number in as few attempts as possible.<br>
-**Win the Game:** Once you guess the correct number, you win!<br>
+- **Guess the Number:** Enter your guess into the input field and submit it.<br>
+- **Receive Feedback:** The game will inform you if your guess is too high or too low.<br>
+- **Keep Guessing:** Use the feedback to refine your guesses and try to guess the correct number in as few attempts as possible.<br>
+- **Win the Game:** Once you guess the correct number, you win!<br>
 <br>**Features**
 - Interactive Interface: Enjoy a user-friendly interface for seamless gameplay.
 - Feedback System: Receive instant feedback after each guess to guide your next move.
