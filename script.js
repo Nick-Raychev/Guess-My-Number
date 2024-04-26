@@ -13,7 +13,6 @@ document.querySelector('.check').addEventListener('click', function () {
   console.log(typeof guess, guess);
   //When there is no input
   if (!guess) {
-    // document.querySelector('.message').textContent = '⛔ No number';
     displayMessage('⛔ No number');
     // When they select a number not in the selected range
   } else if (guess < 0 || guess > 20) {
@@ -53,7 +52,7 @@ document.querySelector('.again').addEventListener('click', function () {
   document.querySelector('.guess').value = '';
   // Score reset
   document.querySelector('.score').textContent = score;
-  // secretNumber reset
+  // SecretNumber reset
   document.querySelector('.number').textContent = '?';
   document.querySelector('.number').style.width = '15rem';
 
